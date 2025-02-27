@@ -59,11 +59,10 @@ I am a software developer with a focus on web development. I'm based in Egypt, a
 
 ## Top Projects
 
+- [Essence-Ecommerce](https://github.com/MahmoudBadawy0/Essence-Ecommerce) - A responsive online store built with Angular , Tailwind CSS and Flowbite.
 - [Appleax](https://github.com/MahmoudBadawy0/Appleax) - A project showcasing a responsive design using CSS.
 - [Social Media Website](https://github.com/MahmoudBadawy0/Social-Media-websit-vanila-javascript-) - A basic social media web application built with vanilla JavaScript.
-- [Essence-Ecommerce](https://github.com/MahmoudBadawy0/Essence-Ecommerce) - A responsive online store built with Angular , Tailwind CSS and Flowbite.
-
-- [GameOver](https://github.com/MahmoudBadawy0/GameOver) - A fun interactive game project demonstrating my JavaScript skills.
+- [GameOver](https://github.com/MahmoudBadawy0/GameOver) - A fun interactive project demonstrating my JavaScript skills.
 - [Login](https://github.com/MahmoudBadawy0/Login) - A simple login interface showcasing form handling in JavaScript.
 - [weather](https://github.com/MahmoudBadawy0/Weather) - A weather application that uses an API to fetch real-time data.
 
